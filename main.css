@@ -1,0 +1,70 @@
+/* The design I went for wasn't based on any other websites, I really just went with the colors of the product
+ and felt like they worked*/
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+h1 {
+    float: left;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+.img1 {
+    float: left;
+}
+
+main {
+    clear: both;
+}
+
+p {
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    float: left;
+    width: 50%;
+    color: white;
+}
+
+body {
+    background: radial-gradient(rgb(163,13,5), black, darkblue)
+}
+
+#img2 {
+    margin-left: 37%;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+nav {
+    float: left;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
